@@ -22,3 +22,23 @@ Me poshte ndodhen foto te zgjidhjeve te ushtrimeve per `Laborator 4`, `Laborator
 ### Output:
 
 ![Ushtrimi 3](/Screenshots/lab-4-ushtrimi-3.png)
+
+## Ushtrimet `Laborator 5`
+
+1. Ndërtoni një aplikacion i cili do të përmbajë një frame, me një textArea ku do te
+   afishohet një tekst. Të shtohen 2 butona: “To Lower Case”, dhe “To Upper Case”
+   që do te kthejnë tekstin në shkronja të vogla ose të mëdha në varësi të butonit të
+   zgjedhur.
+
+### Output:
+
+![Ushtrimi 1](/Screenshots/lab-5-ushtrimi-1.png)
+
+2. Krijoni një frame që përmban një JTable si në figurë:
+
+### Output:
+
+3. Duke përdorur JTable të ushtrimit 2, bëni të mundur që në klikim të një prej
+   qelizave nëpërmjet JOptionPane, të afishoni vlerën e marrë nga qeliza.
+
+### Output:
