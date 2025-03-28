@@ -1,8 +1,8 @@
 # Arbër Tusha Laboratori 2 - Zgjidhje të Ushtrimeve
 
-Më poshtë ndodhen foto të zgjidhjeve të ushtrimeve për [Laborator 4](/Laborator%204/), [Laborator 5](/Laborator%205/), [Laborator 6](/Laborator%206/).
+Më poshtë ndodhen foto të zgjidhjeve të ushtrimeve për [Laborator 4](/Laborator%204/src), [Laborator 5](/Laborator%205/src), [Laborator 6](/Laborator%206/src).
 
-## [Ushtrimet `Laborator 4`](/Laborator%204/)
+## [Ushtrimet `Laborator 4`](/Laborator%204/src)
 
 1. Krijoni një frame që përmban një input tekst, një buton, dhe një JList. Në klik të butonit
    Shto, në JList do të shtohet teksti i vendosur. Frame përmban edhe një buton Pastro.
@@ -23,7 +23,7 @@ Më poshtë ndodhen foto të zgjidhjeve të ushtrimeve për [Laborator 4](/Labor
 
 ![Ushtrimi 3 Lab 4](/Screenshots/lab-4-ushtrimi-3.png)
 
-## [Ushtrimet `Laborator 5`](/Laborator%205/)
+## [Ushtrimet `Laborator 5`](/Laborator%205/src)
 
 1. Ndërtoni një aplikacion i cili do të përmbajë një frame, me një textArea ku do te
    afishohet një tekst. Të shtohen 2 butona: “To Lower Case”, dhe “To Upper Case”
@@ -47,7 +47,7 @@ Më poshtë ndodhen foto të zgjidhjeve të ushtrimeve për [Laborator 4](/Labor
 
 ![Ushtrimi 2 Lab 5](/Screenshots/lab-5-ushtrimi-3.png)
 
-## [Ushtrimet `Laborator 6`](/Laborator%206/)
+## [Ushtrimet `Laborator 6`](/Laborator%206/src)
 
 1. Krijoni një aplikacion në Java si në figurë:
    Jepen 3 butona dhe një JList.
