@@ -38,6 +38,8 @@ Me poshte ndodhen foto te zgjidhjeve te ushtrimeve per `Laborator 4`, `Laborator
 
 ### Output:
 
+![Ushtrimi 2](/Screenshots/lab-5-ushtrimi-2.png)
+
 3. Duke përdorur JTable të ushtrimit 2, bëni të mundur që në klikim të një prej
    qelizave nëpërmjet JOptionPane, të afishoni vlerën e marrë nga qeliza.
 
