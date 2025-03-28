@@ -44,3 +44,5 @@ Me poshte ndodhen foto te zgjidhjeve te ushtrimeve per `Laborator 4`, `Laborator
    qelizave nëpërmjet JOptionPane, të afishoni vlerën e marrë nga qeliza.
 
 ### Output:
+
+![Ushtrimi 2](/Screenshots/lab-5-ushtrimi-3.png)
