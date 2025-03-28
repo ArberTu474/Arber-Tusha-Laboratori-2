@@ -20,3 +20,5 @@ Me poshte ndodhen foto te zgjidhjeve te ushtrimeve per `Laborator 4`, `Laborator
 3. Krijoni një telefon si në figurë:
 
 ### Output:
+
+![Ushtrimi 3](/Screenshots/lab-4-ushtrimi-3.png)
